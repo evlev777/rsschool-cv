@@ -1,11 +1,11 @@
 ### Evgeniy Levkovich
-___
+
 ### Contacts
 * __Location:__ Minsk, Belarus
 * __Phone:__ +375 (44) 771-46-17
 * __Email:__ [levkovich.evgeniy.98@gmail.com](mailto:levkovich.evgeniy.98@gmail.com)
 * __GitHub:__ [evlev777](https://github.com/evlev777)
-___
+
  ## About me
  I have the ability to work in multitasking mode. My high analytical skills allow me to work effectively with large amount of information.  I have worked a lot with data bases.
  I am  purposeful and ready to bring any business to a fruitful end.
@@ -14,20 +14,19 @@ ___
  I have a desire for professional growth and easy learning.
  I am proactive, I think not only about the ways to solve the problem, but also about how they will affect the project on the whole.
  I am adaptible, I am able to show flexibility in the working process, for example, changes in the team, the transition to a remote work mode, these changing conditions will not affect the result of the work.
-___
+
  ## Scills
 * HTML5/CSS;
 * Sass/Less;
 * JavaScript (ES5/ES6);
 * Git, Webpack, Babel.
-___
+
 ## Code Example
 ```
 function squareSum(numbers){
     return numbers.map((num) => Math.pow(num,2)).reduce((sum,current) => sum + current, 0);
 }
 ```
-___
 
 ## Education
 * __University:__ Belarusian State University of Informatics and Radioelectronics;
@@ -35,7 +34,7 @@ ___
     * SamsSolutions
     * It-Academy
     * HTML Academy
-___
+
 ## English
 Pre-intermediate
 
