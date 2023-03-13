@@ -20,22 +20,17 @@ ___
 * Sass/Less;
 * JavaScript (ES5/ES6);
 * Git, Webpack, Babel.
-
 ## Code Example
 ```
 function squareSum(numbers){
     return numbers.map((num) => Math.pow(num,2)).reduce((sum,current) => sum + current, 0);
 }
 ```
-
 ## Education
 * __University:__ Belarusian State University of Informatics and Radioelectronics;
 * __Courses:__
     * SamsSolutions
     * It-Academy
     * HTML Academy
-
 ## English
 Pre-intermediate
-
-
